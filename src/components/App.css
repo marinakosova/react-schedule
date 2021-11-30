@@ -1,0 +1,11 @@
+.removeBtn {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: tomato;
+}
+
+.title {
+    display: inline-block;
+    margin: 0 10px;
+}
